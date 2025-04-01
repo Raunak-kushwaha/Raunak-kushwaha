@@ -15,10 +15,16 @@ I also love to play mainstream games.
 </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-kushwaha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-kushwaha/Raunak-kushwaha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunak-kushwaha/Raunak-kushwaha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ### 📫 Let's Connect!
-- **Linkedin**:[raunak-kushwaha](https://linkedin.com/in/raunak-kushwaha) 
-- **Instagram**: [_raunak_k](https://instagram.com/_raunak_k)
-- **Discord**: [raunak.](https://discord.gg/https://discordapp.com/users/756028503408902226)
-- **Portfolio**: [Click here!](https://raunakkushwaha-portfolio.netlify.app/) </br></br></br>
+- **Linkedin**: ([raunak-kushwaha](https://linkedin.com/in/raunak-kushwaha))
+- **Instagram**: ([_raunak_k](https://instagram.com/_raunak_k))
+- **Discord**: ([raunak.](https://discord.gg/https://discordapp.com/users/756028503408902226))
+- **Portfolio**: ([Click here!](https://raunakkushwaha-portfolio.netlify.app/)) </br></br></br>
 💡 *Always learning, always improving! Let's build something awesome together.* 🚀
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
