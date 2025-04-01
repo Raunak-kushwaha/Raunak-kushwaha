@@ -1,58 +1,24 @@
 <!--
 **Raunak-kushwaha/Raunak-kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<!--
-# Hi there! 👋 I'm Raunak
+
+## 👋 Hi, I'm Raunak!  
+I'm a **Computer Science student at Amity University**, currently in my **third year**. I have a strong passion for **software development UI/UX design**, and I'm always eager to explore new technologies and enhance my skills. 
+I also love to play mainstream games.
 
 
+### 💻 My Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+### 📊 My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raunak-kushwaha&count_private=true&show_icons=true&bg_color=00000000&hide_rank=true&hide=stars)
+</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-kushwaha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 📌 Projects
-- **Inventory Management System** (JavaFX + MariaDB) 🔧 CRUD operations, authentication, CSV import/export, search & sort
-- **Blood Donation Portal** (Java, Swing, Servlets) 🏥 Patient records management
-- **Note-Making Portal** (Servlets + MySQL) 📝 Web-based note-saving system
-- **PowerPoint Presentation on Negotiation Skills** (Communication Skills Session) 🎤
-🚀 Aspiring Software Engineer passionate about coding, UI/UX, and design.<br/>  
-🎓 Studying **Computer Science** at Amity University, India.<br/>  
-📹 Exploring web development and UI/UX design while working on projects.<br/>  
-📝 Writing about tech, development, and gaming optimizations in my [blog](https://yourblog.com).<br/>  
-🎮 Competitive **Valorant** player aiming for higher ranks while tweaking performance.<br/>
-## 🎯 Current Goals
-- Building a **UI/UX portfolio** and refining design skills
-- Enhancing my **web development skills** before diving deeper into UI/UX
-- Completing **internships** to gain hands-on industry experience
-- Learning **another scripting language** to broaden my skill set
-- Improving my **Valorant gameplay** and ranking up past Platinum
-
-
--->
-### Hi, I'm Raunak!  
-
-  ## 🚀 About Me
-I'm a **Computer Science student at Amity University**, currently in my **third year**. I have a strong passion for **software development, UI/UX design, and cybersecurity**, and I'm always eager to explore new technologies and enhance my skills.
-
-
-## 💻 Tech Stack & Interests
-- **Programming Languages**: Python, Java, JavaScript
-- **Web Development**: HTML, CSS, JavaScript, Servlets, MySQL
-- **Software Development**: JavaFX, Swing, IntelliJ IDEA, VS Code
-- **UI/UX & Visual Communication**: Exploring design principles with a minor in Visual Communication
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunak-kushwaha&count_private=true&show_icons=true&bg_color=00000000&hide_rank=true&hide=stars)  
-## 📫 Let's Connect!
-- **GitHub**: [Raunak-kushwaha](https://github.com/Raunak-kushwaha)
-- **LinkedIn**: [Raunak-kushwaha](https://linkedin.com/in/Raunak-kushwaha)
-- **Portfolio**: [Click here!](https://raunakkushwaha-portfolio.netlify.app/)
-
+### 📫 Let's Connect!
+- **Linkedin**:[raunak-kushwaha](https://linkedin.com/in/raunak-kushwaha) 
+- **Instagram**: [_raunak_k](https://instagram.com/_raunak_k)
+- **Discord**: [raunak.](https://discord.gg/https://discordapp.com/users/756028503408902226)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- **Portfolio**: [Click here!](https://raunakkushwaha-portfolio.netlify.app/) </br></br></br>
 💡 *Always learning, always improving! Let's build something awesome together.* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
