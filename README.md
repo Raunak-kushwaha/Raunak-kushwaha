@@ -25,6 +25,6 @@ I also love to play mainstream games.
 - **Linkedin**: ([raunak-kushwaha](https://linkedin.com/in/raunak-kushwaha))
 - **Instagram**: ([_raunak_k](https://instagram.com/_raunak_k))
 - **Discord**: ([raunak.](https://discord.gg/https://discordapp.com/users/756028503408902226))
-- **Portfolio**: ([Click here!](https://raunakkushwaha-portfolio.netlify.app/)) </br></br></br>
+- **Portfolio**: ([Click here!](http://iamraunak.me/Personal-Port/)) </br></br></br>
 💡 *Always learning, always improving! Let's build something awesome together.* 🚀
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
