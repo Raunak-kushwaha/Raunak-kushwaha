@@ -4,7 +4,7 @@
 -->
 
 ## 👋 Hi, I'm Raunak!  
-I'm a **Computer Science student at Amity University**, currently in my **third year**. I have a strong passion for **software development UI/UX design**, and I'm always eager to explore new technologies and enhance my skills. 
+I'm a **Computer Science student at Amity University**, currently in my **final year**. I have a strong passion for **Web Development and UI/UX design**, and I'm always eager to explore new technologies and enhance my skills. 
 I also love to play mainstream games.
 
 
